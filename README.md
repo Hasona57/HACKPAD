@@ -2,39 +2,39 @@
 
 ![Hackpad Hero Image](images/hackpad-hero.jpg)
 
-## 🧠 Overview
+## Overview
 **HACKPAD** is a compact macropad featuring 4 tactile push buttons and 2 SK6812 RGB LEDs for interactive lighting.  
 It is powered by a Seeed XIAO RP2040 and uses **KMK firmware** built on CircuitPython.  
 Designed to be minimal, responsive, and fully open-source for hardware hacking fun.
 
 ---
 
-## 🧰 Features
-- ✅ Seeed XIAO RP2040 (through-hole)
-- ✅ 4 tactile push buttons (SW_Push)
-- ✅ 2 SK6812 MINI RGB LEDs (individually addressable)
-- ✅ PCB dimensions: **86.7mm x 82.9mm**
-- ✅ Fully 3D printed case: **Top + Bottom**
-- ✅ Supports KMK (CircuitPython) firmware
-- ✅ Easy to modify and extend!
+## Features
+-  Seeed XIAO RP2040 (through-hole)
+-  4 tactile push buttons (SW_Push)
+-  2 SK6812 MINI RGB LEDs (individually addressable)
+-  PCB dimensions: **86.7mm x 82.9mm**
+-  Fully 3D printed case: **Top + Bottom**
+-  Supports KMK (CircuitPython) firmware
+-  Easy to modify and extend!
 
 ---
 
-## 🖼️ Images
+## Images
 
-### 📘 Schematic  
+### Schematic  
 ![Schematic](images/schematic.jpg)
 
-### 🧾 PCB Layout  
+### PCB Layout  
 ![PCB](images/pcb.png)
 
-### 🧱 3D Printed Case  
+### 3D Printed Case  
 ![Top Case](images/topcase.png)
 ![Bottom Case](images/bottomcase.png)
 
 ---
 
-## 📦 Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 | Part               | Description                           | Qty |
 |--------------------|----------------------------------------|-----|
@@ -48,20 +48,18 @@ Designed to be minimal, responsive, and fully open-source for hardware hacking f
 
 ---
 
-## 🧪 Firmware
+## Firmware
 
 This macropad uses **KMK firmware** based on CircuitPython.  
 Simply copy `main.py` into the root of your XIAO RP2040 CircuitPython drive.
 
-### 📁 Firmware Folder:
+### Firmware Folder:
 Firmware/
 └── main.py
 
-You can modify `main.py` to assign macros, control LEDs, or handle advanced functionality.
-
 ---
 
-## 📂 Project File Structure
+## Project File Structure
 
 HACKPAD/
 ├── CAD/
@@ -81,14 +79,14 @@ HACKPAD/
 
 ---
 
-## 🚀 License
+## License
 
 This project is licensed under the MIT License — you can freely use, modify, and distribute it.
 
 ---
 
-## 🙌 Author
+## Author
 
 Created by **Hassan Mohamed**  
-For Hack Club’s [Hackpad project](https://github.com/hackclub/hackpad) ❤️
+For Hack Club’s [Hackpad project](https://github.com/hackclub/hackpad)
 
