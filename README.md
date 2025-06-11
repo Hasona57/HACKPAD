@@ -88,5 +88,5 @@ This project is licensed under the MIT License — you can freely use, modify, a
 ## Author
 
 Created by **Hassan Mohamed**  
-For Hack Club’s [Hackpad project](https://github.com/hackclub/hackpad)
+For Hack Club
 
